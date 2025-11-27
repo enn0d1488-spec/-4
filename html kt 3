@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head> 
+    <style>
+      
+      </style>
+
+    <html lang="ru">
+      
+</head>
+
+<body>
+
+  <header class="center"> Telegram      О нас </header>
+
+  <main>
+    <h1>Flower World</h1>
+<div class="container">
+  <div class="item1"><h1>Букет 17 пионов</h1><p><i>17500 руб.</i></p></div>
+  <div class="item2"><h1>Букет роз кустовых</h1><p><i>4500 руб.</i></p></div>
+  <div class="item3"><h1>Букет “Frost” роз</h1><p><i>7700 руб.
+</i></p></div>
+  <div class="item4"><h1>21 диантус</h1><p><i>3650 руб.
+</i></p></div>
+  <div class="item5"><h1>Букет “Милина”</h1><p><i>7150 руб.
+</i></p></div>
+</div>
+    
+ <div class="container1">
+  <div class="item6"><h1>Букет 17 пионов</h1><p><i>17500 руб.</i></p></div>
+  <div class="item7"><h1>Букет роз кустовых</h1><p><i>4500 руб.</i></p></div>
+  <div class="item8"><h1>Букет “Frost” роз</h1><p><i>7700 руб.</i></p></div>
+  <div class="item9"><h1>21 диантус</h1><p><i>3650 руб.</i></p></div>
+  <div class="item0"><h1>Букет “Милина”</h1><p><i>7150 руб.</i></p></div>
+</div>
+    <footer><b>WOIXIW</b></footer>
